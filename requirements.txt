@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+langchain-google-genai
+google-generativeai
+gradio
+elevenlabs
+python-dotenv
+firecrawl
